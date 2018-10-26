@@ -1,5 +1,8 @@
 [![NPM version](https://badge.fury.io/js/canvas-prebuilt.svg)](http://badge.fury.io/js/canvas-prebuilt)
 
+# NOTE
+This fork is only for `install` script fix in 1.6.x version: https://github.com/node-gfx/node-canvas-prebuilt/pull/13
+
 This is a drop-in replacement for canvas that does not require any compiling. To use it
 just `npm install canvas-prebuilt` or replace `canvas` with `canvas-prebuilt` in your
 dependencies.

@@ -1,7 +1,7 @@
 {
-  "name": "canvas-prebuilt",
+  "name": "@gemini-testing/canvas-prebuilt",
   "description": "Prebuilt versions of node-canvas as a drop-in replacement",
-  "version": "2.0.0-alpha.13",
+  "version": "1.6.12",
   "author": "Caleb Hearon <crh0872@gmail.com>",
   "browser": "canvas/browser.js",
   "keywords": [
@@ -25,8 +25,8 @@
     "remote_path": "v{version}",
     "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{libc}-{arch}.tar.gz"
   },
-  "homepage": "https://github.com/chearon/node-canvas-prebuilt",
-  "repository": "git://github.com/chearon/node-canvas-prebuilt.git",
+  "homepage": "https://github.com/gemini-testing/node-canvas-prebuilt",
+  "repository": "git://github.com/gemini-testing/node-canvas-prebuilt.git",
   "main": "./canvas/index.js",
   "license": "MIT",
   "dependencies": {
